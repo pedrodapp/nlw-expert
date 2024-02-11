@@ -1,3 +1,4 @@
+<br>
 <p align="center">
   <img alt="Logo NLW Expert - Rocketseat" src="/github/logo.png" width="200px"/>
 </p>
@@ -11,6 +12,7 @@
 ## 💻 Project
 
 Test your knowledge about Digital Marketing with our Quiz!
+<br>
 <br>
 Developed during Rocketseat's Next Level Week 💜
 
