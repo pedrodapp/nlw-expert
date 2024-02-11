@@ -1,4 +1,4 @@
-<p align="center" style: margin-top: 200px;>
+<p align="center" style="margin-top: 200px">
   <img alt="Logo NLW Expert - Rocketseat" src="/github/logo.png" width="200px" />
 </p>
 
