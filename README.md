@@ -2,14 +2,10 @@
   <img alt="Logo NLW Expert - Rocketseat" src="/github/logo.png" width="200px" />
 </p>
 
-<p align="center">
-Digital Marketing Quiz
-</p>
+## 💻 Project
 
-<p align="center">
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
+Test your knowledge about Digital Marketing.
+Project developed during Rocketseat's Next Level Week 💜
 
 <br>
 
@@ -25,8 +21,3 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 
-
-## 💻 Project
-
-Test your knowledge about Digital Marketing.
-Project developed during Rocketseat's Next Level Week 💜
