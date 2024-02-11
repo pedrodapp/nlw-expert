@@ -11,6 +11,7 @@
 ## 💻 Project
 
 Test your knowledge about Digital Marketing with our Quiz!
+<br>
 Developed during Rocketseat's Next Level Week 💜
 
 ## 🚀 Technologies
