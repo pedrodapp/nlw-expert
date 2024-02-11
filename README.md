@@ -22,6 +22,5 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 
-<br>
 Developed during Rocketseat's Next Level Week 💜
 
