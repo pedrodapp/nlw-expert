@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src="/github/logo.png" width="200px"/>
+  <img alt="Logo NLW Expert - Rocketseat" src="/github/logo.png" width="220px"/>
 </p>
 
 <br>
@@ -13,8 +13,6 @@
 
 Test your knowledge about Digital Marketing with our Quiz!
 <br>
-<br>
-Developed during Rocketseat's Next Level Week 💜
 
 ## 🚀 Technologies
 
@@ -23,4 +21,7 @@ This project was developed with the following technologies:
 - HTML
 - CSS
 - JavaScript
+
+<br>
+Developed during Rocketseat's Next Level Week 💜
 
