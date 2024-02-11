@@ -10,8 +10,8 @@
 
 ## 💻 Project
 
-Test your knowledge about Digital Marketing.
-Project developed during Rocketseat's Next Level Week 💜
+Test your knowledge about Digital Marketing with our Quiz!
+Developed during Rocketseat's Next Level Week 💜
 
 ## 🚀 Technologies
 
